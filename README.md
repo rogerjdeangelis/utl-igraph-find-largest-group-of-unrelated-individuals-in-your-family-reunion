@@ -209,3 +209,14 @@ Find largest group of unrelated individuals in your family reunion
      \___|_| |_|\__,_|
 
     */
+
+         Select igraph from d:/git/git_010_repos.sasbdat                                                                         
+                                                                                                                             
+     REPO                                                                                                                    
+     ----------------------------------------------------------------------------------------------------------------------- 
+     https://github.com/rogerjdeangelis/utl-R-AI-igraph-list-connections-in-a-non-directed-graph-for-a-subset-of-vertices    
+     https://github.com/rogerjdeangelis/utl-how-many-triangles-in-the-polygon-r-igraph-AI                                    
+     https://github.com/rogerjdeangelis/utl-identify-linked-and-unliked-paths-r-igraph                                       
+     https://github.com/rogerjdeangelis/utl-shortest-and-longest-travel-time-from-home-to-work-igraph-AI                     
+     https://github.com/rogerjdeangelis/utl_remove_isolated_nodes_from_an_network_r_igraph                                   
+
